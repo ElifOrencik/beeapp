@@ -1,0 +1,110 @@
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.exe
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.deps.json
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.runtimeconfig.json
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.AssemblyReference.cache
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form1.resources
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Properties.Resources.resources
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.GenerateResource.cache
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfoInputs.cache
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfo.cs
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.CoreCompileInputs.cache
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\refint\beebotappfinal.dll
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.genruntimeconfig.cache
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\ref\beebotappfinal.dll
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form3.resources
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form4.resources
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form2.resources
+C:\Users\elifo\source\repos\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form6.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.AssemblyReference.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\refint\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.exe
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.deps.json
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.runtimeconfig.json
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form1.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form2.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form3.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form4.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form6.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Properties.Resources.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.GenerateResource.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfoInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfo.cs
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.CoreCompileInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.genruntimeconfig.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\ref\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.exe
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.deps.json
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.runtimeconfig.json
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.AssemblyReference.cache
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form1.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form2.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form3.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form4.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form6.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Properties.Resources.resources
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.GenerateResource.cache
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfoInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfo.cs
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.CoreCompileInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\refint\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.genruntimeconfig.cache
+C:\Users\elifo\OneDrive\Masaüstü\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\ref\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.exe
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.deps.json
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.runtimeconfig.json
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.AssemblyReference.cache
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form1.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form2.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form3.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form4.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form6.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Properties.Resources.resources
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.GenerateResource.cache
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfoInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfo.cs
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.CoreCompileInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\refint\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.genruntimeconfig.cache
+C:\Users\elifo\OneDrive\Masaüstü\1.SINIF\VİZE+FİNALLER 1.SINIF-2\1-2final\beebotappfinal\beebotappfinal\obj\Debug\net6.0-windows\ref\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.exe
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.deps.json
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.runtimeconfig.json
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\bin\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.AssemblyReference.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form1.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form2.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form3.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form4.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Form6.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.Properties.Resources.resources
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.GenerateResource.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfoInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.AssemblyInfo.cs
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.csproj.CoreCompileInputs.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\refint\beebotappfinal.dll
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.pdb
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\beebotappfinal.genruntimeconfig.cache
+C:\Users\elifo\OneDrive\Masaüstü\beebotappfinal\obj\Debug\net6.0-windows\ref\beebotappfinal.dll
